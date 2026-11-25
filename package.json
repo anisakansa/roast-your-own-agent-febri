@@ -1,0 +1,1 @@
+{"description":"make.fun entry: Roast Your Own Agent (u-febri-yudila-roast-your-own-agent-f3359068) — one self-roast line.","engines":{"node":">=22"},"license":"MIT","name":"roast-your-own-agent-febri","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
